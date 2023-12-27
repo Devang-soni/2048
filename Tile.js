@@ -3,6 +3,7 @@ export default class Tile{
     #x
     #y
     #value
+
     
     constructor(tileContainer, value = Math.random() > .5 ? 2 : 4){
         this.#tileElement = document.createElement("div")
