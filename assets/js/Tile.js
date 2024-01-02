@@ -10,7 +10,7 @@ export default class Tile {
     tileContainer.append(this.#tileElement)
     this.value = value
   }
-
+  
   set value(v) {
     this.#value = v
     this.#tileElement.textContent = v
