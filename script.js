@@ -8,7 +8,6 @@ grid.randomEmptyCell().tile = new Tile(gameBoard)
 grid.randomEmptyCell().tile = new Tile(gameBoard)
 setupInput()
 
-
 function setupInput() {
   window.addEventListener("keydown", handleInput, { once: true })
 }
