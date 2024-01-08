@@ -5,5 +5,5 @@
 
 ### Links
 
-- Live Site:  [Quote_Generator](https://devang-soni.github.io/Quote_Generator/)
-- Code:  [Github](https://github.com/Devang-soni/Quote_Generator)
+- Live Site:  [2048](https://devang-soni.github.io/2048/)
+- Code:  [Github](https://github.com/Devang-soni/2048)
