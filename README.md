@@ -1,6 +1,6 @@
 
 # 2048 GAME
-
+--
 2048 game is created with the help of javascript which simply sums the numbers to form a multiple of 2 
 
 ### Links
